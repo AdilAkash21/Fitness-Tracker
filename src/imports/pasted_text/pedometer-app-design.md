@@ -1,0 +1,589 @@
+Build a modern, premium Step Counter (Pedometer) mobile application.
+
+The app should feel like a combination of Fitbit, Google Fit, Samsung Health, and Apple Fitness while remaining simple and beginner-friendly.
+
+Primary Color:
+#4CAF50
+
+Secondary:
+#81C784
+
+Background:
+#F8FAFC
+
+Success:
+#22C55E
+
+Warning:
+#F59E0B
+
+Danger:
+#EF4444
+
+Use Material Design 3.
+
+Design Principles
+- Clean
+- Minimal
+- Rounded corners (16-20px)
+- Large typography
+- Soft shadows
+- Smooth animations
+- Plenty of whitespace
+- Mobile-first
+- Premium UI
+- Consistent spacing using an 8px grid
+- Beautiful illustrations for empty states
+
+---------------------------------------
+BOTTOM NAVIGATION
+---------------------------------------
+
+5 Tabs
+
+🏠 Home
+
+📈 Activity
+
+🏆 Challenges
+
+📅 History
+
+👤 Profile
+
+---------------------------------------
+HOME SCREEN
+---------------------------------------
+
+Greeting
+
+Good Morning,
+John 👋
+
+Today's Date
+
+Daily Progress Ring
+
+Center shows
+
+Steps
+8,245
+
+Goal
+10,000
+
+Circular animated progress
+
+Below Ring
+
+Calories Burned
+
+Distance
+
+Walking Time
+
+Floors
+
+Current Pace
+
+Today's Summary Cards
+
+Steps
+
+Distance
+
+Calories
+
+Active Minutes
+
+Weekly Progress Chart
+
+7-day bar chart
+
+Today's Goal Card
+
+Goal Percentage
+
+Motivational message
+
+Quick Actions
+
+Start Walk
+
+Pause Tracking
+
+Set Goal
+
+Share Progress
+
+Recent Achievement
+
+New Badge
+
+Daily Tip Card
+
+Hydration reminder
+
+Walking tips
+
+---------------------------------------
+ACTIVITY SCREEN
+---------------------------------------
+
+Statistics Overview
+
+Today
+
+Week
+
+Month
+
+Year
+
+Cards
+
+Total Steps
+
+Distance
+
+Calories
+
+Average Steps
+
+Walking Time
+
+Highest Day
+
+Interactive Charts
+
+Line Chart
+
+Bar Chart
+
+Pie Chart
+
+Filters
+
+Today
+
+Week
+
+Month
+
+Custom Date
+
+Milestones
+
+Personal Records
+
+Fastest Walk
+
+Longest Walk
+
+Most Steps
+
+---------------------------------------
+CHALLENGES SCREEN
+---------------------------------------
+
+Daily Challenges
+
+Walk 10k
+
+Burn 400 Calories
+
+Walk 8km
+
+Weekly Challenges
+
+70,000 Steps
+
+5 Active Days
+
+Community Challenges
+
+Friends Leaderboard
+
+Monthly Challenge
+
+Progress Cards
+
+Badges
+
+Locked
+
+Unlocked
+
+Rewards
+
+Coins
+
+XP
+
+Levels
+
+---------------------------------------
+HISTORY SCREEN
+---------------------------------------
+
+Calendar View
+
+Tap any date
+
+Daily Summary
+
+Steps
+
+Distance
+
+Calories
+
+Walking Time
+
+Timeline
+
+Morning Walk
+
+Evening Walk
+
+Search
+
+Filter
+
+Export Data
+
+---------------------------------------
+PROFILE SCREEN
+---------------------------------------
+
+Profile Header
+
+Avatar
+
+Name
+
+Email
+
+Fitness Level
+
+Edit Button
+
+Statistics
+
+Lifetime Steps
+
+Distance
+
+Calories
+
+Walking Hours
+
+Current Streak
+
+Achievements
+
+Badge Grid
+
+Health Information
+
+Age
+
+Height
+
+Weight
+
+BMI
+
+Goal Settings
+
+Daily Goal
+
+Weekly Goal
+
+Monthly Goal
+
+Preferences
+
+Notifications
+
+Dark Mode
+
+Units
+
+Language
+
+Privacy
+
+Connected Devices
+
+Smartwatch
+
+Google Fit
+
+Apple Health
+
+Logout Button
+
+---------------------------------------
+ONBOARDING
+---------------------------------------
+
+3 Beautiful Screens
+
+Welcome
+
+Track Every Step
+
+Stay Healthy
+
+Enable Permissions
+
+Activity Recognition
+
+Location
+
+Notifications
+
+Set Daily Goal
+
+5000
+
+8000
+
+10000
+
+12000
+
+Enter
+
+Height
+
+Weight
+
+Age
+
+Gender
+
+---------------------------------------
+LOGIN
+---------------------------------------
+
+Google Login
+
+Apple Login
+
+Email Login
+
+Guest Mode
+
+---------------------------------------
+SETTINGS
+---------------------------------------
+
+Notifications
+
+Dark Mode
+
+Units
+
+Theme
+
+Language
+
+Privacy
+
+Permissions
+
+Backup
+
+Export Data
+
+Delete Account
+
+---------------------------------------
+FEATURES
+---------------------------------------
+
+Automatic Step Detection
+
+Background Tracking
+
+Goal Notifications
+
+Daily Reminder
+
+Weekly Report
+
+Monthly Report
+
+Achievements
+
+Streak Counter
+
+Personal Records
+
+Health Insights
+
+Weather Widget
+
+Hydration Reminder
+
+Walking Tips
+
+Offline Support
+
+Cloud Sync
+
+Data Backup
+
+---------------------------------------
+ANALYTICS
+---------------------------------------
+
+Daily Chart
+
+Weekly Chart
+
+Monthly Chart
+
+Yearly Chart
+
+Heatmap Calendar
+
+Trend Analysis
+
+Average Pace
+
+Calories Trend
+
+Distance Trend
+
+---------------------------------------
+GAMIFICATION
+---------------------------------------
+
+Levels
+
+XP
+
+Coins
+
+Daily Rewards
+
+Weekly Rewards
+
+Achievements
+
+Leaderboards
+
+Badges
+
+Streaks
+
+---------------------------------------
+ANIMATIONS
+---------------------------------------
+
+Animated Progress Ring
+
+Count-up Numbers
+
+Card Fade-in
+
+Smooth Navigation
+
+Micro-interactions
+
+Confetti on Goal Completion
+
+Pull-to-Refresh
+
+Skeleton Loading
+
+---------------------------------------
+EMPTY STATES
+---------------------------------------
+
+No Walk Yet
+
+No Challenges
+
+No History
+
+No Achievements
+
+Use friendly illustrations.
+
+---------------------------------------
+ERROR STATES
+---------------------------------------
+
+Permission Denied
+
+No Internet
+
+Sensor Not Available
+
+Tracking Error
+
+---------------------------------------
+ACCESSIBILITY
+---------------------------------------
+
+Large Text Support
+
+High Contrast
+
+VoiceOver
+
+TalkBack
+
+Haptic Feedback
+
+---------------------------------------
+COMPONENTS
+---------------------------------------
+
+Cards
+
+Buttons
+
+Progress Rings
+
+Charts
+
+Badges
+
+Avatars
+
+Bottom Sheets
+
+Dialogs
+
+Snackbars
+
+FAB
+
+Bottom Navigation
+
+Shimmer Loading
+
+---------------------------------------
+TYPOGRAPHY
+---------------------------------------
+
+Headline
+
+Title
+
+Body
+
+Caption
+
+Use modern Material 3 typography.
+
+---------------------------------------
+DELIVERABLE
+---------------------------------------
+
+Create a complete production-ready mobile UI with reusable components, responsive layouts, modern design system, smooth animations, and consistent spacing. Organize the project with clean architecture and reusable widgets/components. Every screen should feel polished, premium, and ready for a real fitness application.

@@ -1,0 +1,11 @@
+{
+  "title": "Fitness Step Counter",
+  "description": "Track your fitness journey with a sleek step counter app that monitors daily steps, calories burned, and health metrics, empowering users to achieve their goals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
